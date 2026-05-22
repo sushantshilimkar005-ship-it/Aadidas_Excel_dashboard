@@ -32,7 +32,7 @@ Project Overview
 •	Bing Maps Integration
 
 Dashboard Screenshot
-![Dashboard Screenshot](Dashboard_Screenshot)   
+![Dashboard Screenshot](Dashboard_Screenshot.png)   
  
 How to Use
 1.	Open the Excel dashboard file.
