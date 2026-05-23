@@ -34,12 +34,4 @@ Project Overview
 Dashboard Screenshot
 ![Dashboard Screenshot](Dashboard_Screenshot.png)   
  
-How to Use
-1.	Open the Excel dashboard file.
-2.	Use slicers on the right side to filter data by Year, Region, and Product.
-3.	Analyze sales trends and profit performance using the charts.
-4.	Explore region-wise sales using the map visualization.
-GitHub Description
-Adidas Sales Dashboard created in Microsoft Excel for Data Analytics and Business Intelligence visualization.
-Author
-Created by Sushant Shilimkar
+ See this link of linkedin Post https://www.linkedin.com/posts/sushant-shilimkar-24b7a2351_dataanalytics-exceldashboard-datavisualization-ugcPost-7447492700100239360-Zsi6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfcHNsBkJ6rTmHkURe8Ai39maVXQfkeihE
