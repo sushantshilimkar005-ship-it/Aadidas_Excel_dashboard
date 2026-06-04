@@ -34,4 +34,4 @@ Project Overview
 Dashboard Screenshot
 ![Dashboard Screenshot](Dashboard_Screenshot.png)   
  
- See this link of linkedin Post https://www.linkedin.com/posts/sushant-shilimkar-24b7a2351_dataanalytics-exceldashboard-datavisualization-ugcPost-7447492700100239360-Zsi6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfcHNsBkJ6rTmHkURe8Ai39maVXQfkeihE
+ For a detailed overview and project presentation, check out my LinkedIn post: https://www.linkedin.com/posts/sushant-shilimkar-24b7a2351_dataanalytics-exceldashboard-datavisualization-ugcPost-7447492700100239360-Zsi6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFfcHNsBkJ6rTmHkURe8Ai39maVXQfkeihE
