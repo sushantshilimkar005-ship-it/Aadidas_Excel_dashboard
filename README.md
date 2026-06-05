@@ -1,6 +1,6 @@
 ### Adidas Sales Database Dashboard 👟📊
 
-### 📌 Project Overview
+### 📌 Project Overview:
 
 Purpose: An interactive Excel data analytics dashboard built to analyze corporate sales performance, profitability, and distribution channels for Adidas.
 
@@ -8,11 +8,11 @@ Scope: Aggregates multi-year retail data into a streamlined, corporate-themed re
 
 Target Audience: Sales directors, retail operations managers, and business analysts seeking a comprehensive view of channel performance and regional demand
 
-### 📊 Dashboard Preview 
+### 📊 Dashboard Preview :
 
 ![Dashboard_screenshot](Dashboard_Screenshot.png)
 
-### 🎯 Key Objectives
+### 🎯 Key Objectives :
 
 Identify Growth Drivers: Pinpoint top-performing retailers, sales methods, and regions fueling overall business growth.
 
@@ -20,7 +20,7 @@ Optimize Distribution: Evaluate performance variances between In-store, Online, 
 
 Track Historical Performance: Compare quarterly and monthly timelines to isolate historical trends and plan forward-looking sales campaigns.
 
-### 📈 Key Performance Indicators (KPIs) Captured
+### 📈 Key Performance Indicators (KPIs) Captured :
 
 Total Sales Scaling: Tracks multi-million dollar revenue brackets dynamically across a 2020–2021 timeline.
 
@@ -58,7 +58,7 @@ Top Retail Partnerships: West Gear and Foot Locker emerge as the highest-volume 
 
 2021 Post-Pandemic Surge: Sales trends demonstrate an aggressive, sustained upward climb starting in early 2021 compared to the flat baselines of 2020.
 
-### 💡 Business Benefits
+### 💡 Business Benefits:
 
 Omnichannel Optimization: Highlights the critical importance of physical retail spaces ($40\%$) while providing concrete metrics to justify expanding online channel market share.
 
@@ -67,10 +67,10 @@ Strategic Partner Management: Empowers account managers with the leverage data n
 Targeted Geographic Campaigns: Allows marketing teams to filter low-performing geographic sectors and roll out targeted regional promotions to win back market share.
 
 
-### 👨‍💻 Author
+### 👨‍💻 Author : sushant shilimkar
 
-Name: Your Name
+📧 Email:sushantshilimkar005@gmail.com
 
-Connect: Your LinkedIn Profile
+🔗 LinkedIn: https://www.linkedin.com/in/sushant-shilimkar-24b7a2351?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-Portfolio: Your Portfolio Link
+💻 GitHub: https://github.com/sushantshilimkar005-ship-it
