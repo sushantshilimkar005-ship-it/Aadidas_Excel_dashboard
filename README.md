@@ -23,7 +23,7 @@ This project showcases an interactive Adidas Sales Dashboard created using Micro
 Dashboard Screenshot
 ### ![Dashboard Screenshot](Dashboard_Screenshot.png)   
  
-#### How to Use
+### How to Use
 1.	Open the Excel dashboard file.
 2.	Use slicers on the right side to filter data by Year, Region, and Product.
 3.	Analyze sales trends and profit performance using the charts.
